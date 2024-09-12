@@ -1,7 +1,5 @@
 <h1 align="center" >artaka</h1>
-<p align="center">
-<img href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75102&random=true&width=435&lines=Software+engineering+student+at+BSTU)">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+engineering+student+at+BSTU" alt="Typing SVG" /></a>
 <h2 align = "center">How you can connect with me</h2>
 <p align = "center">
   <a href="https://t.me/artakagrand">
