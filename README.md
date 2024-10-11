@@ -5,8 +5,8 @@
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=artaka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7A"/>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/artaka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artaka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <img src="https://leetcard.jacoblin.cool/artaka?theme=nord" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artaka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> <br>
+  <img width=300 src="https://leetcard.jacoblin.cool/artaka?theme=nord" alt="ovi" />
 </p>
 <h2 align = "center">How you can connect with me</h2>
 <p align = "center">
